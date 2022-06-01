@@ -1,3 +1,14 @@
+# Background
+
+A collaborative project to implement Deep Learning in real-life scenarios
+
+Contributed by:
+- John Tan Chong Min
+- Ho Danliang
+- Dylan Tan
+
+This is an equation solver which takes as input handwritten text, and outputs the answer for the equation.
+
 # Step 1: Download the data
 
 Dataset can be downloaded from: https://www.kaggle.com/datasets/xainano/handwrittenmathsymbols
